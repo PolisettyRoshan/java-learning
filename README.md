@@ -10,5 +10,21 @@ There are three steps 1. Hll - Human learning program
 java is a high level progrme 
 we should convert into machine level
 and then to low level 
-to convet that we use java and javac commands
-                      
+to convet that we use java and javac command
+
+[] java commands
+[] What should be the class name and file name
+
+
+Date: 20/2/2024
+
+
+[] Variables
+
+[] Variable naming conventions
+
+[] different data types in programming languages
+
+[] different cases
+
+[] what is int datatype
