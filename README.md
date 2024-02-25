@@ -135,6 +135,12 @@ The javac command reads source files that contain module, package and type decla
 
 * Source files must have a fie name extention of .java. Class file have a file name extention of .class. Both source and class files normally have file names that identify the contents
 
-
 [] Given two numbers for example number1=3 and number2 =5
 swap the numbers so that when printing number1 it should display num5 and printing number2 it should display num3
+
+Date: 24/2/2024
+
+
+[] assignment operator
+[] Sring concatination
+
