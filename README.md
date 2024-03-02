@@ -27,6 +27,8 @@ variables are containers for storing data values
 
 * A variable name can consist of capital letters A-Z only one spwcial characters such as _
 
+* variables shuld always start with lower casse
+
 * The first character must not be a digit 
 
 * Blank spaces cannot be used in variable names
@@ -143,4 +145,46 @@ Date: 24/2/2024
 
 [] assignment operator
 [] Sring concatination
+
+Date: 25/2/22024
+
+[] Unary operaters (sub topics)
+
+Date: 26/2/2024
+
+[] Relational Operaters 
+
+Java has 6 relational operators.
+
+== is the equality operator. This returns true if both the operands are referring to the same object, otherwise false.
+!= is for non-equality operator. It returns true if both the operands are referring to the different objects, otherwise false.
+< is less than operator.
+> is greater than operator.
+<= is less than or equal to operator.
+>= is greater than or equal to operator.
+[] Bitwise Operaters 
+
+. Bitwise OR (|) 
+
+This operator is a binary operator, denoted by ‘|’. It returns bit by bit OR of input values, i.e., if either of the bits is 1, it gives 1, else it shows 0. 
+Bitwise AND (&)
+
+This operator is a binary operator, denoted by ‘&.’ It returns bit by bit AND of input values, i.e., if both bits are 1, it gives 1, else it shows 0. 
+
+. Bitwise XOR (^) 
+
+This operator is a binary operator, denoted by ‘^.’ It returns bit by bit XOR of input values, i.e., if corresponding bits are different, it gives 1, else it shows 0. 
+
+{} Logical Operaters
+
+Logical operators are used to perform logical “AND”, “OR” and “NOT” operations, i.e. the function similar to AND gate and OR gate in digital electronics. They are used to combine two or more conditions/constraints or to complement the evaluation of the original condition under particular consideration
+AND Operator ( && ) – if( a && b ) [if true execute else don’t]
+OR Operator ( || ) – if( a || b) [if one of them is true to execute else don’t]
+NOT Operator ( ! ) – !(a<b) [returns false if a is smaller than b]
+[] truth tables
+
+Date: 27/2/2024
+
+[] Write code examples to all assignment operaters
+
 
