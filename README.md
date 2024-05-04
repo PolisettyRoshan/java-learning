@@ -188,3 +188,9 @@ Date: 27/2/2024
 [] Write code examples to all assignment operaters
 
 
+Date: 02/03/2024
+
+[] grading system code 
+[] for loops
+
+

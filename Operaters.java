@@ -74,7 +74,7 @@ class Operaters {
         boolean logicalAnd = x && y;
         System.out.println("logicalAnd="+logicalAnd);
         boolean logicalOr = x || y;
-        System.out.println("logicalOr="+logicalOr);
+        System.out.println("logicalOr="+logiNHJKGcalOr);
 
         // assignment Operaters (=, +=, -=, *=, /=, %=, &=, ^=, |=)
         int number5 = 8;
